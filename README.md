@@ -28,9 +28,4 @@
 </div>
 
 ## Instalação
-
-**Atenção:** A chave da API está em modo de depuração (debug mode), portanto, o instalável foi gerado em build de debug. 
-<br>
-Clique no link abaixo e instale o app no seu dispostivo ou emulador **Android:**
-<br>
-[Download](https://drive.google.com/file/d/1kL8op3F0di8Mpu3Vd3cspq2bcdmqfAwH/view?usp=sharing)
+Clone este repositorio e abra o projeto no Android Studio
